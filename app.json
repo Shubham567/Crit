@@ -1,0 +1,12 @@
+{
+  "name": "Crit",
+  "displayName": "Crit",
+  "expo": {
+    "name": "Crit",
+    "slug": "Crit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
